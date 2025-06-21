@@ -19,8 +19,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/youngberry1/Frontend-Mentor---QR-code-component-)
+- Live Site URL: [Add live site URL here](https://youngberry1.github.io/Frontend-Mentor---QR-code-component-/)
 
 ## My process
 
@@ -36,16 +36,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 CSS Flexbox, and centering contents both horizontally and vertically
 
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Abdul Barcky](https://youngberry1.github.io/Personal-Portfolio-2/)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/youngberry1)
 - Twitter - [@TrendingBoss1](https://www.twitter.com/trendingboss1)
 
