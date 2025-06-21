@@ -41,6 +41,6 @@ CSS Flexbox, and centering contents both horizontally and vertically
 ## Author
 
 - Website - [Abdul Barcky](https://youngberry1.github.io/Personal-Portfolio-2/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/youngberry1)
+- Frontend Mentor - [@youngberry1](https://www.frontendmentor.io/profile/youngberry1)
 - Twitter - [@TrendingBoss1](https://www.twitter.com/trendingboss1)
 
